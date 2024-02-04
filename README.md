@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lycamnguyen&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lycamnguyen&theme=tokyonight&hide=contribs,prs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lycamnguyen&layout=compact)
 
 <a href="https://github.com/lycamnguyen/SeaCatCine/">
