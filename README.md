@@ -2,7 +2,7 @@
   <img src="./svg/lycamnguyen.svg" width="1200" alt="" />
 </a> -->
 
-<h2 align="center">💫About Me</h2>
+<h2 align="center">💫About Me 💫</h2>
 <br>
 <a href="#" target="_blank">
   <img src="./svg/lcn-aboutme.svg" width="846" height="150" alt="" />
