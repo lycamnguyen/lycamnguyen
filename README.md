@@ -1,5 +1,5 @@
 <a href="#" target="_blank">
-  <img src="/svg/lycamnguyen.svg" width="1200" alt="" />
+  <img src="./svg/lycamnguyen.svg" width="1200" alt="" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
@@ -54,5 +54,5 @@
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
 <a href="#" target="_blank">
-  <img src="svg/trungquandev-quotes.svg" width="846" height="150" alt="trungquandev-official" />
+  <img src="./svg/lcn-quotes.svg" width="846" height="150" alt="" />
 </a>
