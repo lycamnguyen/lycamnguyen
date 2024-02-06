@@ -4,9 +4,12 @@
 
 <h2 align="center">💫 About Me 💫</h2>
 <br>
-<a href="#" target="_blank">
+<!-- <a href="#" target="_blank">
   <img src="./svg/lcn-aboutme.svg" width="846" height="150" alt="" />
-</a>
+</a> -->
+I'm a Frontend Developer<br>
+I'm currently studying at Student at University of Technology - VNUHCM<br>
+My most used programming languages are JS, CSS, HTML
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
