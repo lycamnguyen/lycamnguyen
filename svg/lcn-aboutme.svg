@@ -16,10 +16,7 @@
 					color: white;
           line-height: 1.6;
 				}
-        .quotes-eng {
-          font-size: 18px;
-        }
-        .quotes-vi {
+        .aboutme {
           font-size: 18px;
         }
         .lcn-signature {
@@ -28,7 +25,7 @@
 			</style>
 
 			<div class="container">
-        <div class="quotes-eng">I'm a Frontend Developer<br>
+        <div class="aboutme">I'm a Frontend Developer<br>
 I'm currently studying at Student at University of Technology - VNUHCM<br>
 My most used programming languages are JS, CSS, HTML</div>
         <div class="lcn-signature">-Lycamnguyen-</div>
