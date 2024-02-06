@@ -39,7 +39,7 @@
   <a href="https://www.facebook.com/Lycamnguyen2627/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="lcn-facebook" />
   </a>
-  <a href="https://www.linkedin.com/in/ly-nguy%E1%BB%85n-th%E1%BB%8B-c%E1%BA%A9m-1a8a20277/" target="blank">
+  <a href="https://www.linkedin.com/in/lycamnguyen/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="lcn-linkedin" />
   </a>
   <a href="https://www.instagram.com/lyy.cn/" target="blank">
