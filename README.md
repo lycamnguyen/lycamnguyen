@@ -7,7 +7,6 @@
 <!-- <a href="#" target="_blank">
   <img src="./svg/lcn-aboutme.svg" width="846" height="150" alt="" />
 </a> -->
-I'm a Frontend Developer<br>
 I'm currently studying at Student at University of Technology - VNUHCM<br>
 My most used programming languages are JS, CSS, HTML
 
